@@ -6,7 +6,7 @@ Release:        %mkrel 1
 Summary:        Finnish spellchecker and hyphenator extension for LibreOffice
 Group:          Office
 License:        GPLv3+
-URL:            http://voikko.sourceforge.net/
+URL:            https://voikko.sourceforge.net/
 # The usual format of stable release URLs
 Source0:        http://downloads.sourceforge.net/voikko/%{name}-%{version}.tar.gz
 # The usual format of test release URLs
