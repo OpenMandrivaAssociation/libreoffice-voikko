@@ -11,6 +11,7 @@ URL:            https://voikko.sourceforge.net/
 Source0:        http://downloads.sourceforge.net/voikko/%{name}-%{version}.tar.gz
 # The usual format of test release URLs
 #Source0:        http://www.puimula.org/htp/testing/%{name}-%{version}rc2.tar.gz
+BuildRequires:	make
 BuildRequires:    libreoffice-devel >= 3.2.99
 BuildRequires:    libvoikko-devel >= 2.1
 Requires:         libreoffice-core >= 3.2.99
