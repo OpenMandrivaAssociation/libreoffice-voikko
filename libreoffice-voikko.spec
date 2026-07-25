@@ -2,7 +2,7 @@
 
 Name:           libreoffice-voikko
 Version:        3.2
-Release:        %mkrel 1
+Release:        2
 Summary:        Finnish spellchecker and hyphenator extension for LibreOffice
 Group:          Office
 License:        GPLv3+
